@@ -5,7 +5,7 @@ Created by- Ritesh Chaurasia | Infinity Coding
 Welcome to my personal portfolio website! This platform showcases my technical skills, real-world projects, certifications, and professional journey in web development and AI-based application development.
 
 ## 🔗 Live Demo
-👉 [Visit My Portfolio](https://yourusername.github.io/riteshchaurasia-portfolio/) (Replace with your actual link)
+👉 [Visit My Portfolio](https://riteshchaurasia85.github.io/Portfolio-RC/)
 
 ## 📌 Features
 
